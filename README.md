@@ -6,7 +6,7 @@ O sistema é focado nas entidades Categoria e Produtos.
 
 ## Visão Geral
 
-O Konoha Pharmacy é um sistema simples de gerenciamento de farmácia que permite o cadastro e a manipulação de informações relacionadas às categorias e produtos disponíveis na farmácia.
+Esse é um sistema simples de gerenciamento de farmácia que permite o cadastro e a manipulação de informações relacionadas às categorias e produtos disponíveis na farmácia.
 
 ## Funcionalidades
 
